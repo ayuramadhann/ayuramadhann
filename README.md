@@ -1,5 +1,5 @@
 <h3>Hi there, I’m <a href="https://ayuramadhann.github.io">@ayuramadhann</a> 👋 </h3>
-<h5>Remote worker and Frontend Web Developer working in Makassar, Indonesia.</h5>
+<h4>Remote worker and Frontend Web Developer working in Makassar, Indonesia.</h4>
 
 
 - 🏢 I'm currently working at <a href="https://ejen2u.com">Ejen2u International Sdn Bhd</a> as Frontend Web Developer

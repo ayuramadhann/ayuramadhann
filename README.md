@@ -1,6 +1,9 @@
 <h3>Hi there, I’m <a href="https://ayuramadhann.github.io">@ayuramadhann</a> 👋 </h3>
+<h5>Remote worker and Frontend Web Developer working in Makassar, Indonesia.</h5>
 
-- 🌱 I’m currently learning Javascript, Vue/NuxtJS
+
+- 🏢 I'm currently working at <a href="https://ejen2u.com">Ejen2u International Sdn Bhd</a> as Frontend Web Developer
+- 🌱 Daily use Javascript, Jquery, Vue/NuxtJS
 - 💞️ I’m looking to collaborate on any open source projects related to Vue JS
 - 📫 How to reach me : Reach out to me directly through my <a href="mailto:ayut.ramadhan@gmail.com">Email</a>
 

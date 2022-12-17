@@ -1,4 +1,4 @@
-<h3>Hi there, I’m <a href="https://ayuramadhann.github.io">@ayuramadhann</a> 👋 </h3>
+<h3>Hi there, I’m ayu 👋 </h3>
 <h4>Remote worker and Frontend Web Developer working in Makassar, Indonesia.</h4>
 
 

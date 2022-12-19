@@ -4,7 +4,6 @@
 
 - 🏢 I'm currently working at <a href="https://ejen2u.com">Ejen2u International Sdn Bhd</a> as Frontend Web Developer
 - 🌱 Daily use Javascript, Jquery, Vue/NuxtJS
-- 💞️ I’m looking to collaborate on any open source projects related to Vue JS
 - 📫 How to reach me : Reach out to me directly through my <a href="mailto:ayut.ramadhan@gmail.com">Email</a>
 
 <h3>Github Stats</h3>
